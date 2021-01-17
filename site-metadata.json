@@ -42,7 +42,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/light2.svg"
     },
     "footer": {
         "type": "footer",
