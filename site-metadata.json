@@ -42,7 +42,9 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/light2.svg",
+        "logo_alt": "Alexwell"
     },
     "footer": {
         "type": "footer",
