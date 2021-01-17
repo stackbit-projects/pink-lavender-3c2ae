@@ -5,7 +5,7 @@
         "type": "header",
         "template": "header",
         "title": "Starter",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "type": "action",
